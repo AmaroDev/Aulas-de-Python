@@ -1,5 +1,6 @@
-#Tipos Int e Float
-#Int -> Número inteiro
+#Tipos Int e Float - números inteiros e números com 
+# ponto flutuante
+#Int -> Número inteiro 
 #O numero inteiro representa qualquer numero positivo. Int sem sinal é considerado positivo
 
 # Float -> Numro com ponto flutuante
@@ -23,7 +24,7 @@
 # conversão de tipos, coerção
 # type convertion,typecasting, coercion
 #é o ato de converter um tipo
-#tipos imutáveis e primitivos:
+#tipos imutáveis e primitivos: 
 #str, int, float, bool
 
 # print(int('1'), type(int('1')))

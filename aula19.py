@@ -1,3 +1,7 @@
+
+
+
+
 """
 Operadores de comparação (relacionais)
 OP      Significado         Exemplo (True)
